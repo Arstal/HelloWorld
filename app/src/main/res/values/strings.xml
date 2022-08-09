@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Intro_text">Hello my name is Qihao Cai and i am excited to learn about android development using Kotlin</string>
+    <string name="button_Text">General Kenobi</string>
+</resources>
